@@ -1,0 +1,14 @@
+.navbar {
+    height: 5%;
+    width: 100%;
+    background-color: whitesmoke;
+    transition: .5s ease;
+    padding-top: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+
+

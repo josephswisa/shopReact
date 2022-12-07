@@ -1,0 +1,11 @@
+.product {
+    width: 190px;
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    outline: 2px solid black;
+    border-radius: 10px;
+    background-color: honeydew;
+}

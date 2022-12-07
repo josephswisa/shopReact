@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  background-color: slategrey;
+  height: 100vmax;
+}
+
+.products {
+  flex: 1;
+  padding: 20px;
+  height: auto;
+  background-color: whitesmoke;
+  display: flex;
+  margin: 0px 20px 20px 20px;
+  flex-wrap: wrap;
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  overflow: scroll;
+
+}
+
+.single {
+
+  margin: 10px 10px 5px 15px;
+}
+
+
+
